@@ -85,6 +85,14 @@
 
    ![image](https://github.com/user-attachments/assets/63d8f583-95e9-4a5e-96d8-7dbfac578cba)
 
+  # Testing the Application
+  
+  Open your web browser and navigate to http://localhost:3000.
+
+  You should see the React Todo List application running
+
+ ![image](https://github.com/user-attachments/assets/7575d55f-b0b3-41e9-839d-9cd380a0dc7a)
+
 
 
 
