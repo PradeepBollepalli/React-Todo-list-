@@ -94,6 +94,57 @@
  ![image](https://github.com/user-attachments/assets/7575d55f-b0b3-41e9-839d-9cd380a0dc7a)
 
 
+# Pushing Code to GitHub
+
+  Make sure you are in the project directory.
+   
+  I.Initialize Git if it hasn’t been initialized:
+ 
+   1. git init
+
+
+  II. Add the remote repository:
+
+  git remote add origin https://github.com/PradeepBollepalli/React-Todo-list-.git
+
+  III. Stage all changes:
+
+  git add .
+
+IV. Commit your changes:
+
+ git commit -m "Initial commit with Dockerfile and project setup"
+ 
+ Push the code to your GitHub repository:
+
+![image](https://github.com/user-attachments/assets/32d62937-bae8-49ce-bc1f-dc791850246b)
+
+
+# Pushing the Docker Image to Docker Hub
+
+Log in to Docker Hub:
+
+docker login
+
+![image](https://github.com/user-attachments/assets/301bdf78-126b-412a-b7c9-6f42308b284d)
+
+
+docker tag react-todo-app pradeep051/react-todo-app:latest
+
+# Push the Docker image:
+
+![image](https://github.com/user-attachments/assets/7a47f533-f956-41ef-8673-1a3b3ce6e4ed)
+
+We can go and see in DockerHub wether image is Available or not.
+
+![image](https://github.com/user-attachments/assets/3d82b704-aa87-45d5-8a15-bf877c67506f)
+
+
+
+# Conclusion.
+
+You have successfully cloned a React application, created a Dockerfile, built and run the Docker image, and pushed both your code and Docker image to GitHub and Docker Hub, respectively
+
 
 
 
