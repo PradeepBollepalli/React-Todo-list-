@@ -1,2 +1,1 @@
-# React-Todo-list-
-DOCKER-FILE-PROJECT
+# React Todo List Application Dockerization
