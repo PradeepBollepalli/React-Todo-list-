@@ -1,24 +1,27 @@
 # React Todo List Application Dockerization
-  Table of Contents
-    Introduction
+
+
+# Table of Contents
+  
+  # Introduction
       
-    1.Prerequisites
+   1.Prerequisites
       
-    2. Cloning the Repository
+   2. Cloning the Repository
     
-    3.Creating the Dockerfile
+   3.Creating the Dockerfile
     
-    4.Building the Docker Image
+   4.Building the Docker Image
     
-    5.Running the Docker Container
+   5.Running the Docker Container
     
-    6.Testing the Application
+   6.Testing the Application
     
-    7.Pushing Code to GitHub
+   7.Pushing Code to GitHub
     
-    8.Pushing the Docker Image to Docker Hub
+   8.Pushing the Docker Image to Docker Hub
     
-    9.Conclusion
+   9.Conclusion
 
 
 
@@ -65,6 +68,15 @@
   2.Open the Dockerfile in a text editor and add the following configuration:
 
   ![image](https://github.com/user-attachments/assets/413d70b9-cb14-4bba-8aa4-b2704703aa7a)
+
+
+# Building the Docker Image.
+
+ 1.Open your terminal and ensure you are in the project directory.
+
+ 2.Build the Docker image with the following command:
+
+ ![image](https://github.com/user-attachments/assets/c0d519e8-f72a-4bbb-9080-05a108651434)
 
 
 
