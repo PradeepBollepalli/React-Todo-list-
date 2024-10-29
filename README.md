@@ -79,6 +79,14 @@
  ![image](https://github.com/user-attachments/assets/c0d519e8-f72a-4bbb-9080-05a108651434)
 
 
+ # Running the Docker Container.
+ 
+   Run the Docker container using the following command:
+
+   ![image](https://github.com/user-attachments/assets/63d8f583-95e9-4a5e-96d8-7dbfac578cba)
+
+
+
 
 
 
