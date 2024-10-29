@@ -19,3 +19,20 @@
     8.Pushing the Docker Image to Docker Hub
     
     9.Conclusion
+
+
+
+ #Introduction:
+ 
+  This documentation outlines the process of cloning a React Todo List application repository, creating a Dockerfile, building a Docker image, running the application in a Docker container, and pushing the code to GitHub 
+  and the Docker image to Docker Hub.
+
+#Prerequisites:
+
+ 1.Docker installed on your machine.
+ 
+ 2.Git installed on your machine.
+ 
+ 3.A Docker Hub account.
+ 
+ 4.A GitHub account.
