@@ -55,5 +55,18 @@
    ![image](https://github.com/user-attachments/assets/2f396675-5da5-4576-8ab6-022cac8e6df7)
 
 
+ # Creating the Dockerfile
+ 
+  1.In the root of the project directory, create a file named Dockerfile (without any extension).
+
+   ![image](https://github.com/user-attachments/assets/ff4ce0a0-81bb-417a-a1d3-697a676401b1)
+
+
+  2.Open the Dockerfile in a text editor and add the following configuration:
+
+  ![image](https://github.com/user-attachments/assets/413d70b9-cb14-4bba-8aa4-b2704703aa7a)
+
+
+
    
 
