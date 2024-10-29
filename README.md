@@ -45,5 +45,8 @@
 
    2.Navigate to the directory where you want to clone the repository
 
+   3.Clone the repository:
+   
+
    ![image](https://github.com/user-attachments/assets/cecc63f8-9b44-4d4d-8937-49ae722e37e9)
 
