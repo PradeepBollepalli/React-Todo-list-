@@ -50,3 +50,10 @@
 
    ![image](https://github.com/user-attachments/assets/cecc63f8-9b44-4d4d-8937-49ae722e37e9)
 
+   4.Navigate into the cloned directory:
+
+   ![image](https://github.com/user-attachments/assets/2f396675-5da5-4576-8ab6-022cac8e6df7)
+
+
+   
+
